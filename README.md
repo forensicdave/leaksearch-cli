@@ -1,7 +1,7 @@
 # leaksearch — CLI for the leaksear.ch API
 
 A single-file, stdlib-only Python CLI (Python 3.8+, no pip installs) for the
-leaksear.ch breach-data API described in `api-1.json`.
+leaksear.ch breach-data API described in described in the leaksear.ch API documentation.
 
     chmod +x leaksearch.py
     cp leaksearch.example.ini ~/.config/leaksearch/config.ini   # add your api_key

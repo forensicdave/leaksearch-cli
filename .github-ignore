@@ -1,0 +1,6 @@
+# never commit credentials or results
+*.ini
+!leaksearch.example.ini
+*.jsonl
+*.log
+*.swp
